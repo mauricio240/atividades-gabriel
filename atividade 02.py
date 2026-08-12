@@ -19,10 +19,3 @@ print(f"Diferença entre as notas: {diferenca:.2f}")
 print(f"Tempo de estudo: {horas_estudo} h e {minutos_restantes} min")
 print(f"Aproveitamento: {aproveitamento:.1f}%")
 print(f"Pontos de bônus: {pontos_bonus}")
-
-inputs:
-6.7
-4.2
-32
-67
-68
